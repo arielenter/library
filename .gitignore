@@ -15,3 +15,5 @@ yarn-error.log
 /.idea
 /.vscode
 /nbproject/private/
+remote
+remote.pub
